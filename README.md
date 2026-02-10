@@ -14,12 +14,12 @@ You can find the file for the dashboard here: [`Data_Jobs_Dashboard.pbix`](Data_
 ## Skills Showcased
 
 This project was a journey through key Power BI features. Here's a look at what we mastered:
-*   ** Implicit Measures:** Key indicators such as `Median Yearly Salary` and `Job Count` were derived directly within Power BI to support insight generation.
-*   ** Core Visualisations:** **Column, Bar, Line, and Area charts** were used to compare job volumes and observe changes across different roles.
-*   ** Geographic Insights:** **Map visuals** were applied to highlight the global spread of data job opportunities.
-*   ** KPI & Detailed Tables:** **Card visuals** summarize important metrics while tables allow users to explore job-level details.
-*   ** Report Layout & Visual Design:** The dashboard layout focuses on clarity and usability, combining both standard and advanced chart types for effective storytelling.
-*   ** Interacivity & Navigation:**
+*   **Implicit Measures:** Key indicators such as `Median Yearly Salary` and `Job Count` were derived directly within Power BI to support insight generation.
+*   **Core Visualisations:** **Column, Bar, Line, and Area charts** were used to compare job volumes and observe changes across different roles.
+*   **Geographic Insights:** **Map visuals** were applied to highlight the global spread of data job opportunities.
+*   **KPI & Detailed Tables:** **Card visuals** summarize important metrics while tables allow users to explore job-level details.
+*   **Report Layout & Visual Design:** The dashboard layout focuses on clarity and usability, combining both standard and advanced chart types for effective storytelling.
+*   **Interacivity & Navigation:**
     -   Slicers enable filtering by job role.
     -   Buttons and bookmarks create smooth page navigation.
     -   Drill-through functionality allows users to move from overview insights to job-specific analysis.
